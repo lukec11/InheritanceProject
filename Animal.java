@@ -8,7 +8,9 @@ public abstract class Animal implements Comparable {
 	private boolean isFriendly;
 	private int weight;
 	private String sound;
-  private static String speciesName = "Animal";
+	private static String speciesName = "Animal";
+	public abstract String speed();
+
 
 	public Animal() {
 		isWarmBlooded = true;
@@ -55,9 +57,10 @@ public abstract class Animal implements Comparable {
 	public boolean getIsWild() {
 		return isWild;
 	}
-  public String getSpeciesName() {
-    return speciesName;
-  }
+
+	public String getSpeciesName() {
+		return speciesName;
+	}
 
 	public boolean getIsFriendly() {
 		return isFriendly;
@@ -74,7 +77,7 @@ public abstract class Animal implements Comparable {
 	public String getSound() {
 		return sound;
 	}
-
+	
 	public void setIsWarmBlooded(boolean x) {
 		isWarmBlooded = x;
 	}
@@ -111,8 +114,8 @@ public abstract class Animal implements Comparable {
 		sound = x;
 	}
 
-  public void setSpeciesName(String x) {
-    speciesName = x;
-  }
+	public void setSpeciesName(String x) {
+		speciesName = x;
+	}
 
 }

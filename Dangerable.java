@@ -1,5 +1,5 @@
 interface Dangerable {
-  boolean isDangerous = true;
+	boolean isDangerous = true;
 
-  public boolean getIsDangerous();
+	public boolean getIsDangerous();
 }

@@ -1,3 +1,3 @@
 public interface Comparable {
-  public boolean equals(Object object);
+	public boolean equals(Object object);
 }

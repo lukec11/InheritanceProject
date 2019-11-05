@@ -48,4 +48,7 @@ public class MountainGorilla extends Gorilla implements Dangerable {
   public void setLivesInMountains(boolean x) {
     livesInMountains = x;
   }
+	public String speed() {
+		return "slow speed";
+	}
 }

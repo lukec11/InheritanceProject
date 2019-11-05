@@ -47,5 +47,7 @@ public class Human extends Primate {
   public void setName(String x) {
     name = x;
   }
-  
+  public String speed() {
+		return "fast speed";
+	}
 }

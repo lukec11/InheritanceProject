@@ -19,5 +19,4 @@ public abstract class Gorilla extends Primate {
     gorillaSubSpecies = gorillaSubspeciesIn;
     isCaptive = isCaptiveIn;
   }
-  
 }
