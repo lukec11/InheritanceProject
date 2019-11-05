@@ -1,0 +1,1407 @@
+!SESSION 2019-11-05 03:42:46.591 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/runner
+
+This is a continuation of log file /home/runner/.metadata/.bak_0.log
+Created Time: 2019-11-05 03:50:16.313
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.313
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.313
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.314
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.315
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.320
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.321
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.327
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.327
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.328
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.328
+!MESSAGE 0 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.338
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.338
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.339
+!MESSAGE Reconciled 0, validated: 11. Took 516 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.340
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.342
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.342
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.343
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.343
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.343
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.395
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.395
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.396
+!MESSAGE Reconciled 0, validated: 12. Took 631 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.398
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.405
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.467
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.809
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.865
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.963
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:16.964
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.031
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.032
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.032
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.041
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.041
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.041
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.053
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.053
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.053
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.069
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.070
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.119
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.120
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.120
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.120
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.132
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.132
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.147
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.147
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.159
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.159
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.160
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.166
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.166
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.192
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.193
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.193
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.193
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.193
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.206
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.206
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.207
+!MESSAGE Reconciled 0, validated: 12. Took 400 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.210
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.375
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.388
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.388
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.393
+!MESSAGE begin problem for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.393
+!MESSAGE 0 problems reported for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.402
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.403
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.410
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.410
+!MESSAGE 0 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.428
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.428
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.436
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.436
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.445
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.446
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.459
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.460
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.460
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.467
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.467
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.485
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.486
+!MESSAGE 0 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.495
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.496
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.499
+!MESSAGE Reconciled 0, validated: 11. Took 180 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.774
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.774
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.785
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.785
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.785
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.802
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.802
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.803
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.813
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.814
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.814
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.826
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.826
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.856
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.856
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.857
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.857
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.912
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.913
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.924
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.924
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.934
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.935
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.935
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.951
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.951
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.977
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.978
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.990
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.991
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:17.991
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:18.002
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:18.002
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:18.003
+!MESSAGE Reconciled 0, validated: 12. Took 369 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:18.229
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:19.255
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:19.299
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:19.312
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:19.317
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:19.436
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:19.689
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.028
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.028
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.040
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.040
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.041
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.060
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.061
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.061
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.076
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.076
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.076
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.086
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.086
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.120
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.120
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.120
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.121
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.132
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.132
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.145
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.145
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.160
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.161
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.161
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.168
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.168
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.177
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.177
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.177
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.177
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.178
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.198
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.198
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:20.199
+!MESSAGE Reconciled 0, validated: 12. Took 310 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:22.828
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:22.865
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:22.986
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.561
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.561
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.563
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.571
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.571
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.571
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.596
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.597
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.597
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.612
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.612
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.613
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.629
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.629
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.663
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.664
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.664
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.664
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.673
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.673
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.685
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.685
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.700
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.701
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.702
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.707
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.708
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.718
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.719
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.719
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.720
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.720
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.729
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.729
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:23.730
+!MESSAGE Reconciled 0, validated: 12. Took 293 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:26.601
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:26.642
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:26.698
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.271
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.271
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.295
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.296
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.296
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.306
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.307
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.307
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.328
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.328
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.329
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.340
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.340
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.398
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.399
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.399
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.399
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.413
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.413
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.426
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.426
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.438
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.439
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.439
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.445
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.446
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.456
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.457
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.457
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.457
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.457
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.468
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.468
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:27.469
+!MESSAGE Reconciled 0, validated: 12. Took 320 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:28.487
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:28.488
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:28.544
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:28.812
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.097
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.097
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.117
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.118
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.118
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.127
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.127
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.127
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.138
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.138
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.156
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.157
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.157
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.167
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.167
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.199
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.199
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.199
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.200
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.200
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.209
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.210
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.220
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.221
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.221
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.228
+!MESSAGE begin problem for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.228
+!MESSAGE 0 problems reported for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.251
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.252
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.252
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.252
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.261
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.261
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.269
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.269
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.269
+!MESSAGE Reconciled 0, validated: 13. Took 323 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:29.953
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.115
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.159
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.255
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.516
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.831
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.831
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.840
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.841
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.841
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.851
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.852
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.852
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.861
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.861
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.874
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.874
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.875
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.892
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.892
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.901
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.901
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.901
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.902
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.902
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.914
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.915
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.922
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.922
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.922
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.927
+!MESSAGE begin problem for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.927
+!MESSAGE 0 problems reported for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.948
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.948
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.951
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.951
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.959
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.959
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.967
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.967
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:30.968
+!MESSAGE Reconciled 0, validated: 13. Took 262 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:31.151
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.155
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.206
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.309
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.899
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.899
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.907
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.908
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.908
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.921
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.921
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.921
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.935
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.936
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.945
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.946
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.946
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.951
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.952
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.963
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.963
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.963
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.964
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.964
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.977
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.977
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.985
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.990
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.990
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.996
+!MESSAGE begin problem for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:34.997
+!MESSAGE 0 problems reported for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.018
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.019
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.019
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.019
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.027
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.028
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.037
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.038
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:35.038
+!MESSAGE Reconciled 0, validated: 13. Took 277 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:38.189
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:38.244
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:38.498
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:42.084
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:42.347
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:42.662
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:43.331
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:55.152
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:55.240
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:55.506
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:56.013
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:56.954
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.049
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.056
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.056
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.058
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.117
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.302
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.699
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.700
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.735
+!MESSAGE begin problem for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.737
+!MESSAGE The value of the field Primate.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.738
+!MESSAGE 1 problems reported for /Primate.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.804
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.804
+!MESSAGE The value of the field LowlandGorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.805
+!MESSAGE 1 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.834
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.834
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.843
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.844
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.844
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.845
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.845
+!MESSAGE Reconciled 0, validated: 1. Took 338 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.849
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.850
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.856
+!MESSAGE begin problem for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.856
+!MESSAGE 0 problems reported for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.899
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.900
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.900
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.924
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.924
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.927
+!MESSAGE begin problem for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.927
+!MESSAGE 0 problems reported for /Dog.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.946
+!MESSAGE begin problem for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.946
+!MESSAGE 0 problems reported for /LowlandGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.950
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.951
+!MESSAGE The value of the field Gorilla.isCaptive is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.951
+!MESSAGE The value of the field Gorilla.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.951
+!MESSAGE The value of the field Gorilla.gorillaSubSpecies is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:57.951
+!MESSAGE 3 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.010
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.010
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.019
+!MESSAGE begin problem for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.020
+!MESSAGE The value of the field Wolf.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.020
+!MESSAGE 1 problems reported for /Wolf.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.026
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.026
+!MESSAGE 0 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.042
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.042
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.096
+!MESSAGE begin problem for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.096
+!MESSAGE 0 problems reported for /Comparable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.103
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.103
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.130
+!MESSAGE begin problem for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.131
+!MESSAGE The value of the field Canine.speciesName is not used is of type UnusedPrivateField
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.131
+!MESSAGE 1 problems reported for /Canine.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.137
+!MESSAGE begin problem for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.137
+!MESSAGE 0 problems reported for /Dangerable.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.194
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.197
+!MESSAGE begin problem for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.197
+!MESSAGE 0 problems reported for /Gorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.209
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.209
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.209
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.209
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.220
+!MESSAGE begin problem for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.220
+!MESSAGE 0 problems reported for /Human.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.227
+!MESSAGE begin problem for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.227
+!MESSAGE 0 problems reported for /Feline.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.228
+!MESSAGE Reconciled 0, validated: 11. Took 719 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.236
+!MESSAGE begin problem for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.237
+!MESSAGE 0 problems reported for /MountainGorilla.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.237
+!MESSAGE Reconciled 0, validated: 13. Took 830 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.239
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:50:58.457
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:51:35.235
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 03:51:42.712
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:01:43.457
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:01:46.468
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:01:47.196
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:01:58.246
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:04.025
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:28.415
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:41.341
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:48.234
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.041
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.042
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/runner/Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.110
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.385
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.643
+!MESSAGE begin problem for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.644
+!MESSAGE 0 problems reported for /Animal.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.674
+!MESSAGE begin problem for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.675
+!MESSAGE The value of the local variable C is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.675
+!MESSAGE The value of the local variable objArray is not used is of type LocalVariableIsNeverUsed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.676
+!MESSAGE 2 problems reported for /Main.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:56.676
+!MESSAGE Reconciled 0, validated: 2. Took 115 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-11-05 04:02:57.548
+!MESSAGE >> document/hover
