@@ -1,0 +1,128 @@
+Properties of a Dog:
+
+Is Warm Blooded: true
+Does Have Fur: true
+Is Tired: true
+Is Hungry: false
+Is Wild: true
+Is a Pet: false
+Is Friendly: false
+It's Weight: 0
+The Sound that it Makes: AnimalSound!
+Does it have Spots: true
+Does it Have Floppy Ears: true
+The Fur Color of the Itwhite
+The Dog Breed is: Mixed Breed
+The Species Is: Canis lupus familiaris
+
+
+Properties of a Wolf:
+
+Is Warm Blooded: true
+Does Have Fur: true
+Is Tired: true
+Is Hungry: false
+Is Wild: true
+Is a Pet: false
+Is Friendly: false
+It's Weight: 0
+The Sound that it Makes: AnimalSound!
+Does it have Spots: true
+Does it Have Floppy Ears: true
+The Fur Color of the Itwhite
+The Wolf Subspecies is: Eurasian Wolf
+The Species Is: Animal
+
+
+Properties of a Human:
+
+Is Warm Blooded: true
+Does Have Fur: true
+Is Tired: true
+Is Hungry: false
+Is Wild: true
+Is a Pet: false
+Is Friendly: false
+It's Weight: 0
+The Sound that it Makes: AnimalSound!
+Is it Bipedal: true
+Can it Climb: true
+The Food that it Eats: Omnivore
+Does the Human have Facial Hair: false
+Is the Human a Student: true
+The Human's Name: Joe
+The Species Is: Canis lupus familiaris
+
+
+Properties of a Lowland Gorilla:
+
+Is Warm Blooded: true
+Does Have Fur: true
+Is Tired: true
+Is Hungry: false
+Is Wild: true
+Is a Pet: false
+Is Friendly: false
+It's Weight: 0
+The Sound that it Makes: AnimalSound!
+Is it Bipedal: true
+Can it Climb: true
+The Food that it Eats: Omnivore
+Is it Dangerous: false
+Is it a Silverback Gorilla: false
+Does it Live in the Rainforest: true
+The Species Is: Animal
+
+
+Properties of a Mountain Gorilla:
+
+Is Warm Blooded: true
+Does Have Fur: true
+Is Tired: true
+Is Hungry: false
+Is Wild: true
+Is a Pet: false
+Is Friendly: false
+It's Weight: 0
+The Sound that it Makes: AnimalSound!
+Is it Bipedal: true
+Can it Climb: true
+The Food that it Eats: Omnivore
+Is it Dangerous: true
+Is it a Silverback Gorilla: false
+Does it Live in the Mountains: true
+The Species Is: Mountain Gorilla
+
+
+Properties of a Feline:
+
+Is Warm Blooded: true
+Does Have Fur: true
+Is Tired: true
+Is Hungry: false
+Is Wild: true
+Is a Pet: false
+Is Friendly: false
+It's Weight: 0
+The Sound that it Makes: AnimalSound!
+Is it a Big Cat: true
+Is it Hairless: true
+It's Fur Color: white
+The Species Is: Animal
+
+
+Is the Polymorph Canine -> Wolf hungry: false
+Is the Dog Wild:true
+Does the Dog have floppy ears:true
+Does the Dog have spots:true
+Is the Dog friendly:false
+The name of the Dog:Canis lupus familiaris
+Is the Dog warm blooded:true
+Does the Dog have fur:true
+Is the Dog tired:true
+What is the weight of the Dog:0
+What sound does the Dog make:AnimalSound!
+Is the dog a pet:false
+What breed is the Dog:Mixed Breed
+What color is the Dog's fur:white
+Is the Dog Hungry:false
